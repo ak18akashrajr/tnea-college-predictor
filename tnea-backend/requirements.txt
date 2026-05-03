@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+xgboost
+pdfplumber
+requests
+beautifulsoup4
+scipy
+python-multipart
